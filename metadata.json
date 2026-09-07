@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Study Planner",
+  "description": "Plan smarter. Study better. Achieve more. Personalized AI study schedules, subject tracking, smart rescheduling, and academic insights for college students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
